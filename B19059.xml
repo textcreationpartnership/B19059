@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message with a letter sent by His Majesty to Prince Rupert at or before the time of the taking or surrendring of Litchfield and the close : willing and commanding Prince Rupert not to use any cruelty upon the inhabitants of the aforesaid city of Litchfield, but with all possible care and providence to preserve the lives of our misled and blinded people : also to let the inhabitants upon reasonable quarter depart the place with bag and baggage to the end that no bloud might be spilt, whereby it may become an acceldama, &amp;c.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19059</idno><idno type="EEBO-CITATION">12175358</idno>
+  <idno type="VID">197206</idno>
+  <idno type="EEBO-PROQUEST">2248541522</idno>
+  
+            <idno type="STC">Wing C2493</idno>
+            <idno type="OCLC">12175358</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197206)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 244:E99, no 30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message with a letter sent by His Majesty to Prince Rupert at or before the time of the taking or surrendring of Litchfield and the close : willing and commanding Prince Rupert not to use any cruelty upon the inhabitants of the aforesaid city of Litchfield, but with all possible care and providence to preserve the lives of our misled and blinded people : also to let the inhabitants upon reasonable quarter depart the place with bag and baggage to the end that no bloud might be spilt, whereby it may become an acceldama, &amp;c.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Vnderhood ...,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="personal_name">Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term type="geographic_name">Lichfield (England) --  History --  Siege, 1643.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197206:1"/>
+            <p>A Message with a Letter sent by his Majesty to Prince <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> at or before the time of the taking or surrendring of Litchfield and the close.</p>
+            <p>Willing and commanding Prince <hi>Rupert</hi> not to use any cruelty upon the Inhabitants of the aforesaid City of Litchfield, but with all pos<g ref="char:EOLhyphen"/>sible care and providence to preserve the lives of our missed and blinded people: Also to let the inhabitants upon reasonable quarter depart the place with Bag and Baggage, to the end that no bloud might be spilt, whereby it may become an Acceldama, &amp;c.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <p>DIEV ET MON DROIT.</p>
+            </figure>
+            <p>Printed for <hi>I. Vnderwood</hi> neare the new Exchange. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197206:2"/>
+            <pb facs="tcp:197206:2"/>
+            <head>
+               <figure>
+                  <figDesc>royal badges of house of Stuart: Tudor Rose, Scottish Thistle, Fleur-de-lys, Harp</figDesc>
+               </figure> A Message, with a Letter sent by his Majesty to Prince <hi>Rupert,</hi> at or be<g ref="char:EOLhyphen"/>fore the time of the taking or surrendring of Litchfield and the close, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Rusty and wel-beloved Nephew Prince <hi>Robert,</hi> although Wee know that your own knowledge and experience can conduct you in all military af<g ref="char:EOLhyphen"/>faires, and that your loving affection unto us hath beene approved by many testimonies and reall demon<g ref="char:EOLhyphen"/>strations in your constant and faithfull service, personally performed in our war, which we have endeavoured so much to decline, seeking and heartily persuing after peace, which desires of ours cannot yet bee obtained; wee would have you therefore with us patiently waite the divine opportu<g ref="char:EOLhyphen"/>nity, which can in a moment settle and compo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the uni<g ref="char:EOLhyphen"/>versall distractions of our Kingdome, and by no meanes seeke to anticipate divine revenge on our subjects. For we are fully perswaded that a great part of our loyall people do recant and deeply cogitate and thinke on the fractions and
+<pb facs="tcp:197206:3"/> divisions of our disturbed State, and doe wish that by some happy and effectuall meanes they <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> once clo<g ref="char:EOLhyphen"/>sed againe: But as the beginning is the hardest in all mat<g ref="char:EOLhyphen"/>ters of importance, so now our Subjects being entred into this laborinth of errour and refractory disobedience, cannot suddainly find out the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of reason and religious loyalty to guide and leade them back again<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; the way of a peace and accomodation is that which is portended to be so hard to finde, and like absurd and weake actions that can onely fit their humour and fancy unto one part, so our Kingdome being now made the stage of war, they can present nothing but daily skirmishes, taking of Townes, and many hostile passages, whereas instead of performing the parts of soul<g ref="char:EOLhyphen"/>diers it would become them far better to fall down on their knees, and with a loving submission comply with us for the happinesse and peace of our Kingdome, the ruine whereof (as in other Countries) must needs bee the conse<g ref="char:EOLhyphen"/>quent and effect of a civill war. We doe thus open our mind unto you, that you may have a cleare prospect into our mer<g ref="char:EOLhyphen"/>ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull thoughts in the prosecution of this war, which wee follow and maintaine not voluntarily but being necessita<g ref="char:EOLhyphen"/>ted thereunto, and we wish that our people had never beene so far blinded and drawne into false opinions of us and our integrious intents, as we shall answer one day, if it bee our faults, before the high Tribunall, that we must use so sharpe a medicine as the sword to cure their malady and their deceived understandings, and that ungrounded opi<g ref="char:EOLhyphen"/>nion should prevaile amongst them above all our former royall expressions, and patheticall implorations of Heaven, as the constant witnesse of our thoughts and actions. But yet all <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his cannot make us forget our selves as they doe; we will containe our selves within the limits of a King,
+<pb facs="tcp:197206:3"/> and our good example shall wou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d our subjects with the thought of their unmindnesse d<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o than the sword, which wounds but gently, but conscient sti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es home indeed; all our subjects shall ever find us in the midst of Armes and successefull victories (which we attribute to God) mercifull, and not in any thing desirous of the bloud shed of our peo<g ref="char:EOLhyphen"/>ple, and as after the huresse<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d vattaile at Edge-hill, wee gave you our Nephew and all our souldiers most hearty thankes for the great valour and loyall service that day per<g ref="char:EOLhyphen"/>sonally expresse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, but yet withall wee told you, that wee were sorry then had beene so much effusion of bloud, and that all in both Armes were our subiects, for whose losse in that merciles battaile wee were exceedingly and deepely grieved, so our tender affections to our subjects that shall be ever such, that we shall alwaies smart in their calamities, esteeming them as our owne. And as wee have largely ex<g ref="char:EOLhyphen"/>prest how we stand affected to our people, and what our griefe for them is, that this intestine civill war should bee still prosecuted to our and their great detriment losse and sorrow, so we would have you wel-beloved Nephew, and all others that imploy their endeavours to doe us service, in all hostile manner to mingle severity with mercy, that your and their carriage, and behaviour towards our sub<g ref="char:EOLhyphen"/>jects may gaine upon their opinions, and take their affecti<g ref="char:EOLhyphen"/>ons rather than their Townes, that they may know our Army is the power of their King, armed not to their de<g ref="char:EOLhyphen"/>struction but conversion; and therefore wee lovingly charge and desire you our affectionate Nephew Prince <hi>Robert,</hi> to looke on our people in all your marches and attempts as on our people and subjects, capable of reclaiming though now misled; we would have therefore all your actions as deri<g ref="char:EOLhyphen"/>ved from us, and the influence of our mercy shew us a King
+<pb facs="tcp:197206:4"/> tender of the welfare of our subjects, and as a Father will not deale with his offen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing children with any rigorous violence, but doth declare his Iustice with a compulsive unwillingnesse, so doe you imitate us in carrying affections and intentions to our subiects, not as Lyons but as friends disagreeing that may hereafter be happily reconciled; since it <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth shew a Prince more neere to Heaven to preserve than destroy. And since this civill flame cannot be suddaine<g ref="char:EOLhyphen"/>ly quenched, let us not pull down the Kingdome into ruine and devestation, but goe on this war in a saving way, since the losse is as great on our side as on our subiects part, wee send you this premotion, because wee expect daily to bee more engaged with hostility, and great forces are advan<g ref="char:EOLhyphen"/>cing towards us, with what intentions we know not, but such they appeare that we must resolve to oppose them and their pretences, as contradictory to our Desires and Com<g ref="char:EOLhyphen"/>mands, and preiudiciall to the safety of our Person, and therefore we would have you know our Royall Will and pleasure is, to bee mercifull <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all our designes whereunto we shall by the instigation of an Army advancing towards us be provoked, desiring you and all our loving subiects and Commanders to deale temperately, and with as much curtesie and humanity with all our other subiects on the contrary part, as if all our performances and actions in hostile manner were by them necessitated and not by us de<g ref="char:EOLhyphen"/>sired, for though we have chosen Oxford yet a while to bee our place of Residence, and of our Army for the safety of our Person, we doubt not but that as the Soule is not contay<g ref="char:EOLhyphen"/>ned in one but every part of the body, so our power will bee so largely diffused and extended through all and every part of our Kingdome, that we sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll not want sufficient strength to resist any opposing forces, if any be so impuous to attempt
+<pb facs="tcp:197206:4"/> such violence against us under specious and faire shewes and pretences. We know that our army is much m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as if it were repugnant to the good of the Common-weal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h to accept of our subiects service in these great and civill di<g ref="char:EOLhyphen"/>stractions, doe you therefore good Nephew by your mana<g ref="char:EOLhyphen"/>ging all affaires in this civill war, teach our people to bee undeceived in us thou mercifull King, let your farre actions make it appeare that you are no malignants, no evill Coun<g ref="char:EOLhyphen"/>sellours, but that you stand in defence of us as much as they protend to doe, and that you seeke not the ruine and de<g ref="char:EOLhyphen"/>struction of our kingdomes, which aspersions are cast upon you, which can be no acceptable service unto us, that so all our subjects may be convinced that all the calamities which this civill war shall introduce upon this land are occasioned by malevolent opinion and ungrounded furie, and not from <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and as you have begirt and desieged our City of Litch<g ref="char:EOLhyphen"/>field, so have a care of spilling or shedding innocent bloud which are amongst them; but space when you may destroy, save where time and opportunity gives vantage: let our subjects if they will or desire, it have free quarter, &amp; march with bagge and baggage forth of our City, provided they doe not use any out-rages, or offer violence to the said town of Litchfield, and hereof faile not as you desire the good of us, who desire nothing more than the good happinesse and peaceable government of our kingdome, and not the effusi<g ref="char:EOLhyphen"/>on of the bloud of our subjects, mercy being the highest at<g ref="char:EOLhyphen"/>tribute of a King.</p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:197206:5"/>
+            <head>The Post-script.</head>
+            <p>YOur Highnesse may understand by this Letter his Majesties reall intenti<g ref="char:EOLhyphen"/>ons, how your princely thoughts ought to be steered in your resolutions, and in all your warlicke affaires and enterprises,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>J am yours to command.</hi> Edm. Nicholas.</signed>
+               <dateline>
+                  <hi>From the Court at Oxford</hi>
+                  <date>
+                     <hi>Aprill</hi> 18. 1643.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
